@@ -5,7 +5,7 @@ import time
 # --- Constantes do Jogo ---
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
-GAME_TITLE = "Nave Espacial"
+GAME_TITLE = "Meteor-Clash"
 FPS = 60
 
 # --- Classes de Sprites ---
